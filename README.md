@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando como analista<br>👯 Tentando colaborar com a comunidade aos poucos<br>🤝 Procurando ajuda em desenvolvimento Mobile<br>🌱 Aprendendo Desenvolvimento Mobile 
+🔭 Atualmente trabalhando como analista<br>👯 Tentando colaborar com a comunidade aos poucos<br>🤝 Procurando ajuda em desenvolvimento Mobile<br>🌱Desenvolvedor Front-End
 
 
 ## 🌐 Socials:
